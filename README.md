@@ -1,4 +1,4 @@
-### Bem vindo(a) ao meu perfil! Me chamo Milena e sou apaixonada pelo universo da tecnologia 🪐🖥️
+Apaixonada pelo universo da tecnologia 🪐🖥️
 
 <br>
 
