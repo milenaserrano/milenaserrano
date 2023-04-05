@@ -1,7 +1,3 @@
-### Apaixonada pelo universo da tecnologia 🪐🖥️
-
-<br>
-
  <div align="center">
  <div>
   <a href = "mailto:milenaserranomiron@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -25,4 +21,5 @@
  <img align="center" alt="C++" src = "	https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 </div> --->
 
+ 
 ![snake gif](https://github.com/milenaserrano/milenaserrano/blob/output/github-contribution-grid-snake.svg)
